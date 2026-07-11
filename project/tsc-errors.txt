@@ -1,0 +1,10 @@
+src/components/layout/CustomerSidebar.tsx(3,18): error TS6133: 'FiCalendar' is declared but its value is never read.
+src/components/layout/CustomerSidebar.tsx(3,56): error TS6133: 'FiMenu' is declared but its value is never read.
+src/components/layout/CustomerSidebar.tsx(3,64): error TS6133: 'FiX' is declared but its value is never read.
+src/components/layout/PublicNavbar.tsx(9,9): error TS6133: 'navigate' is declared but its value is never read.
+src/components/reservation/ReservationTable.tsx(4,1): error TS6133: 'Button' is declared but its value is never read.
+src/components/ui/Modal.tsx(4,1): error TS6133: 'Button' is declared but its value is never read.
+src/components/ui/ToastContainer.tsx(1,1): error TS6133: 'useEffect' is declared but its value is never read.
+src/layouts/CustomerLayout.tsx(2,18): error TS6133: 'useNavigate' is declared but its value is never read.
+src/pages/customer/CustomerDashboard.tsx(2,22): error TS6133: 'FiClock' is declared but its value is never read.
+src/pages/customer/CustomerDashboard.tsx(9,1): error TS6133: 'Badge' is declared but its value is never read.
